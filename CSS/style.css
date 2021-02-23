@@ -191,6 +191,7 @@ i{
 .welcome__txt {
     font-size: 1.0em;
     color: #777;
+    padding: 0 1rem;
 }
 
 .welcome__title {

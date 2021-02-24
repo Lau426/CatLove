@@ -253,7 +253,7 @@ i{
   grid-template-columns: 1fr;
   grid-template-rows: auto;
   width: 100%;
-  padding: 5px 15px 25px 15px;
+  padding: 0 1rem;
 
 }
 
@@ -323,7 +323,7 @@ i{
 
 .testimonials__txt{
     text-align: center;
-    padding: 20px 20px 0 20px;
+    padding: 0 1rem;
     color: #777;
     font-size: 1.0em;
 }

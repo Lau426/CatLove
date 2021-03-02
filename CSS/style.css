@@ -221,8 +221,8 @@ i{
 }
 
 .welcome__btn a :hover {
-    background-color: #6ee2e2;
-    color: white;
+  color: rgba(0,0,0,0.7);
+  background-color: #6ee2e2;
 }
 
 /*Container-design-img*/
@@ -406,6 +406,14 @@ i{
     color: black;
     text-align: center;
     margin: 3% 8%;
+    padding-top: 7%;
+  }
+
+  .footer-we p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: none;
   }
 
   .footer-column{
@@ -430,6 +438,7 @@ i{
   .footer__socials{
       padding-top: 20px;
       color: rgb(22, 22, 22);
+      padding-left: 12%;
   }
 
   .social-icon a{
@@ -564,8 +573,8 @@ i{
   }
 
   .welcome__btn:hover {
-    background-color: #777;
-    color: white;
+    color: rgba(0,0,0,0.7);
+    background-color: #6ee2e2;
 }
 /*estilos del header*/
 .main-header {
@@ -687,8 +696,8 @@ i{
 }
 
 .welcome__btn a :hover {
-  background-color: #6ee2e2;
-  color: white;
+  color: rgba(0,0,0,0.7);
+    background-color: #6ee2e2;
 }
 
 /*Container-design-img*/
@@ -857,6 +866,13 @@ text-decoration: none;
  
 }
 
+.footer-we p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
 .footer__socials{
     padding-top: 20px;
     color: rgb(22, 22, 22);
@@ -999,8 +1015,8 @@ margin: 0 ;  }
 }
 
 .welcome__btn:hover {
- background-color: #777;
- color: white;
+  color: rgba(0,0,0,0.7);
+  background-color: #6ee2e2;
 }
 /*estilos del header*/
 .main-header {

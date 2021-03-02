@@ -418,6 +418,7 @@ i{
       color: rgb(31, 31, 31);
       display: flex;
       justify-content: center;
+      padding: 8% 0;
   }
 
  .footer__txt{

@@ -416,6 +416,8 @@ i{
   .footer__title{
       font-size: 1.3em;
       color: rgb(31, 31, 31);
+      display: flex;
+      justify-content: center;
   }
 
  .footer__txt{

@@ -445,6 +445,7 @@ i{
   .contact-icon{
       display: flex;
       align-items: center;
+      padding-left: 20%;
   }
 
   .contact-icon .fas{

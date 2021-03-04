@@ -865,13 +865,20 @@ text-decoration: none;
   width: 100%;
  
 }
+.footer-we{
+  color: black;
+  text-align: center;
+  margin: 3% 8%;
+  padding-top: 7%;
+}
 
 .footer-we p{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 50px;
+  padding: none;
 }
+
 
 .footer__socials{
     padding-top: 20px;
